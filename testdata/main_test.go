@@ -12,8 +12,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/bddjr/hlfhr"
-	hlfhr_utils "github.com/bddjr/hlfhr/utils"
+	"github.com/ihotte/hlfhr"
+	hlfhr_utils "github.com/ihotte/hlfhr/utils"
 	"golang.org/x/net/http2"
 )
 

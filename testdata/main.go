@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/bddjr/hlfhr"
+	"github.com/ihotte/hlfhr"
 )
 
 func main() {

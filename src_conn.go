@@ -8,7 +8,7 @@ import (
 	"runtime"
 	"unsafe"
 
-	hlfhr_utils "github.com/bddjr/hlfhr/utils"
+	hlfhr_utils "github.com/ihotte/hlfhr/utils"
 )
 
 type conn struct {
