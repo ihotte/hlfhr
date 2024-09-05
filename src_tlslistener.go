@@ -1,7 +1,7 @@
 package hlfhr
 
 import (
-	"crypto/tls"
+	"github.com/metacubex/tls"
 	"net"
 )
 

@@ -1,7 +1,7 @@
 package hlfhr_utils
 
 import (
-	"net/http"
+	"github.com/metacubex/http"
 	"reflect"
 	"sync/atomic"
 	"unsafe"

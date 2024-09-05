@@ -1,10 +1,10 @@
 package hlfhr
 
 import (
-	"crypto/tls"
+	"github.com/metacubex/tls"
 	"io"
 	"net"
-	"net/http"
+	"github.com/metacubex/http"
 	"runtime"
 	"unsafe"
 

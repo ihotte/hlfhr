@@ -4,11 +4,11 @@
 package hlfhr
 
 import (
-	"crypto/tls"
+	"github.com/metacubex/tls"
 	"fmt"
 	"log"
 	"net"
-	"net/http"
+	"github.com/metacubex/http"
 	"strings"
 
 	hlfhr_utils "github.com/ihotte/hlfhr/utils"
